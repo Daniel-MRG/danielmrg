@@ -1,0 +1,6 @@
+if(mateus == 'viado'){
+
+	echo "eu já sabia";
+}else{
+	echo "eu já sabia também";
+}
